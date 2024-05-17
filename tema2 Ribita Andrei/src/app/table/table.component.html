@@ -1,0 +1,24 @@
+<nz-table #basicTable [nzData]="employees">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Email</th>
+      <th>Department</th>
+      <th>Job Title</th>
+      <th>Age</th>
+      <th>Edit</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let employee of basicTable.data">
+      <td>{{employee.name}}</td>
+      <td>{{employee.email}}</td>
+      <td>{{employee.department}}</td>
+      <td>{{employee.jobTitle}}</td>
+      <td>{{employee.age}}</td>
+      <td>
+        <button class="editButton" (click)="updateEmployee(employee)">Update</button>
+      </td>
+    </tr>
+  </tbody>
+</nz-table>

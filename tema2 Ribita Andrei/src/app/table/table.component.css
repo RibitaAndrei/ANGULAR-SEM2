@@ -1,0 +1,15 @@
+.editButton {
+    background-color: #0ae687; 
+    color: white; 
+    border: none; 
+    padding: 12px 24px; 
+    font-size: 16px; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease-in-out; 
+  }
+  
+  .editButton:hover {
+    background-color: #406a7c; 
+  }
+  
