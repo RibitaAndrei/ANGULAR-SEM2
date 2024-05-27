@@ -1,0 +1,164 @@
+{
+  "friends": [
+    {
+      "firstName": "Ana",
+      "lastName": "Popescu",
+      "phone": "0752700338",
+      "city": "Bucuresti",
+      "birthday": "1990-05-15",
+      "id": "1"
+    },
+    {
+      "firstName": "Ion",
+      "lastName": "Ionescu",
+      "phone": "0789456123",
+      "city": "Cluj-Napoca",
+      "birthday": "1985-08-25",
+      "id": "2"
+    },
+    {
+      "firstName": "Maria",
+      "lastName": "Radu",
+      "phone": "0712345678",
+      "city": "Timisoara",
+      "birthday": "1982-03-15",
+      "id": "3"
+    },
+    {
+      "firstName": "Mihai",
+      "lastName": "Popa",
+      "phone": "0798765432",
+      "city": "Iasi",
+      "birthday": "1976-11-02",
+      "id": "4"
+    },
+    {
+      "firstName": "Elena",
+      "lastName": "Dumitru",
+      "phone": "0723456789",
+      "city": "Brasov",
+      "birthday": "1989-05-20",
+      "id": "5"
+    },
+    {
+      "firstName": "Cristian",
+      "lastName": "Stan",
+      "phone": "0732109876",
+      "city": "Constanta",
+      "birthday": "1992-12-08",
+      "id": "6"
+    },
+    {
+      "firstName": "Alexandra",
+      "lastName": "Dobre",
+      "phone": "0789654321",
+      "city": "Sibiu",
+      "birthday": "2000-09-18",
+      "id": "7"
+    },
+    {
+      "firstName": "Andrei",
+      "lastName": "Mihai",
+      "phone": "0741258963",
+      "city": "Oradea",
+      "birthday": "1984-07-30",
+      "id": "8"
+    },
+    {
+      "firstName": "Raluca",
+      "lastName": "Georgescu",
+      "phone": "0732145698",
+      "city": "Braila",
+      "birthday": "1998-04-12",
+      "id": "9"
+    },
+    {
+      "firstName": "George",
+      "lastName": "Stoica",
+      "phone": "0798745632",
+      "city": "Galati",
+      "birthday": "1979-10-05",
+      "id": "10"
+    },
+    {
+      "firstName": "Ioana",
+      "lastName": "Vasile",
+      "phone": "0756389214",
+      "city": "Ploiesti",
+      "birthday": "1996-02-28",
+      "id": "11"
+    },
+    {
+      "firstName": "Diana",
+      "lastName": "Neagu",
+      "phone": "0723698521",
+      "city": "Craiova",
+      "birthday": "1986-06-14",
+      "id": "12"
+    },
+    {
+      "firstName": "Adrian",
+      "lastName": "Ivan",
+      "phone": "0785623147",
+      "city": "Targu Mures",
+      "birthday": "1990-11-09",
+      "id": "13"
+    },
+    {
+      "firstName": "Laura",
+      "lastName": "Dragomir",
+      "phone": "0712345678",
+      "city": "Bacau",
+      "birthday": "1975-04-23",
+      "id": "14"
+    },
+    {
+      "firstName": "Alexandru",
+      "lastName": "Muresan",
+      "phone": "0769854123",
+      "city": "Arad",
+      "birthday": "1982-08-17",
+      "id": "15"
+    },
+    {
+      "firstName": "Simona",
+      "lastName": "Gheorghiu",
+      "phone": "0745123658",
+      "city": "Pitesti",
+      "birthday": "1988-01-15",
+      "id": "16"
+    },
+    {
+      "firstName": "Marius",
+      "lastName": "Stancu",
+      "phone": "0798564123",
+      "city": "Baia Mare",
+      "birthday": "1993-06-30",
+      "id": "17"
+    },
+    {
+      "firstName": "Andreea",
+      "lastName": "Pop",
+      "phone": "0723147856",
+      "city": "Buzau",
+      "birthday": "1980-03-22",
+      "id": "18"
+    },
+    {
+      "firstName": "Catalin",
+      "lastName": "Cristea",
+      "phone": "0732156894",
+      "city": "Targoviste",
+      "birthday": "1991-09-05",
+      "id": "19"
+    },
+    {
+      "firstName": "Carmen",
+      "lastName": "Barbu",
+      "phone": "0763541298",
+      "city": "Satu Mare",
+      "birthday": "1985-12-07",
+      "id": "20"
+    }
+      ]
+}

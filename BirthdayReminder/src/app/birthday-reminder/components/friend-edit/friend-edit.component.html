@@ -1,0 +1,10 @@
+<!-- src/app/friend-edit/friend-edit.component.html -->
+<form [formGroup]="friendForm" (ngSubmit)="updateFriend()">
+    <input type="text" formControlName="firstName" placeholder="First Name">
+    <input type="text" formControlName="lastName" placeholder="Last Name">
+    <input type="text" formControlName="phone" placeholder="Phone">
+    <input type="text" formControlName="city" placeholder="City">
+    <input type="date" formControlName="birthday" placeholder="Birthday">
+    <button type="submit">Update Friend</button>
+  </form>
+  

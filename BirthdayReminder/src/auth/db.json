@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "password": "Password1!"
+    },
+    {
+      "id": "73a5",
+      "firstName": "Ionut-Eduard",
+      "lastName": "json-server --watch db.json --port 3000",
+      "email": "edi@gmail.com",
+      "password": "Edi123*",
+      "confirmPassword": "Edi123*"
+    },
+    {
+      "id": "38f1",
+      "firstName": "ana",
+      "lastName": "bladiana",
+      "email": "ana@email.com",
+      "password": "Ana123*",
+      "confirmPassword": "Ana123*"
+    },
+    {
+      "id": "4e1b",
+      "firstName": "Eduard",
+      "lastName": "Dragomir",
+      "email": "edi.dragomir03@gmail.com",
+      "password": "Edi123*",
+      "confirmPassword": "Edi123*"
+    },
+    {
+      "id": "e162",
+      "firstName": "Andreas",
+      "lastName": "Faur",
+      "email": "andreas@gmail.com",
+      "password": "Andreas123*",
+      "confirmPassword": "Andreas123*"
+    },
+    {
+      "id": "a19c",
+      "firstName": "Achim",
+      "lastName": "Maria",
+      "email": "maria@gmail.com",
+      "password": "Maria123*",
+      "confirmPassword": "Maria123*"
+    }
+  ]
+}

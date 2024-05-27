@@ -1,0 +1,69 @@
+/* login.component.css */
+form {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 30px;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  background-color: #ffffff;
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+  font-weight: 300;
+}
+
+nz-form-item {
+  margin-bottom: 20px;
+}
+
+input[nz-input] {
+  width: 100%;
+  border: 2px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  box-sizing: border-box;
+  transition: border-color 0.3s;
+}
+
+input[nz-input]:focus {
+  border-color: #0066ff;
+  outline: none;
+}
+
+button[nz-button] {
+  width: 100%;
+  padding: 12px 20px; /* Ajustat pentru a asigura că textul este centrat vertical */
+  border-radius: 5px;
+  background-color: #0066ff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 500; /* Asigură că fontul este suficient de bold */
+  line-height: 0.8; /* Ajută la alinierea verticală a textului */
+  transition: background-color 0.3s;
+  display: inline-block; /* Asigură că butonul este tratat ca un block cu flow inline */
+  text-align: center; /* Centrarea textului orizontal */
+  vertical-align: middle; /* Centrarea textului vertical */
+}
+
+button[nz-button]:hover {
+  background-color: #0056e0;
+}
+
+.register-link {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.register-link a {
+  color: #0066ff;
+  text-decoration: none;
+}
+
+.register-link a:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,61 @@
+/* register.component.css */
+form {
+  max-width: 360px;
+  margin: 50px auto;
+  padding: 30px;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  background-color: #ffffff;
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+  font-weight: 300;
+}
+
+nz-form-item {
+  margin-bottom: 20px;
+}
+
+input[nz-input] {
+  width: 100%;
+  border: 2px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  box-sizing: border-box;
+  transition: border-color 0.3s;
+}
+
+input[nz-input]:focus {
+  border-color: #0066ff;
+  outline: none;
+}
+
+button[nz-button] {
+  width: 100%;
+  padding: 12px 20px;
+  border-radius: 5px;
+  background-color: #0066ff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.25;
+  transition: background-color 0.3s;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+}
+
+button[nz-button]:hover {
+  background-color: #0056e0;
+}
+
+.error-message {
+  color: #ff4d4f; /* Folosim o culoare de avertizare pentru mesajele de eroare */
+  font-size: 14px; /* Asigurăm lizibilitatea */
+  margin-top: 4px;
+}
